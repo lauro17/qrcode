@@ -3240,6 +3240,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"babel-plugin-root-import@npm:^6.6.0":
+  version: 6.6.0
+  resolution: "babel-plugin-root-import@npm:6.6.0"
+  dependencies:
+    slash: ^3.0.0
+  checksum: 51af42caef272efc2292ebb0fd55477c651cb4219bb77e431ee55dc0dee5d27340362dd74c883f217e75bc4636e298aeff23ff5f3063cdf4962f95635d6bbcd2
+  languageName: node
+  linkType: hard
+
 "babel-plugin-styled-components@npm:>= 1.12.0":
   version: 2.0.7
   resolution: "babel-plugin-styled-components@npm:2.0.7"
@@ -8676,6 +8685,7 @@ __metadata:
     "@babel/core": ^7.12.9
     "@babel/plugin-syntax-decorators": ^7.19.0
     "@react-native-community/eslint-config": ^3.2.0
+    babel-plugin-root-import: ^6.6.0
     eslint: ^8.30.0
     eslint-import-resolver-babel-plugin-root-import: ^1.1.1
     eslint-plugin-import: ^2.26.0
